@@ -35,7 +35,7 @@ First we'll focus on an object called `Video` with the following functionality:
 The following code handles the functionality to track the current time and time remaining of the video as it plays.
 
 {% highlight javascript %}
-`<script>
+<script>
 
   $(function(){
 
