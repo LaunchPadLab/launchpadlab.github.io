@@ -1,4 +1,4 @@
 # Site settings
 title: LPL LevelUp Series
 baseurl: ''
-url: 'http://learn.launchpadlab.com/"
+url: 'http://localhost:4000/'
